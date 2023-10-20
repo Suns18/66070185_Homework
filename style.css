@@ -1,0 +1,32 @@
+body{
+    background-image: url(./images/background.jpg);
+    background-size: 100vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#title{
+    text-align: center;
+    color: #e9ad8b;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#profile-picture{
+    display: block;
+    margin: 0 auto;
+    width: 30vw
+}
+
+.profile, a{
+    text-align: center;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+.container{
+    border: 5px #e9ad8b solid;
+    border-radius: 10px;
+    margin: 50px 100px;
+    padding: 100px 100px;
+    background-color: rgb(73, 53, 27);
+}
