@@ -26,7 +26,9 @@ body{
 .container{
     border: 5px #e9ad8b solid;
     border-radius: 10px;
-    margin: 50px 100px;
+    margin: 100px auto;
     padding: 100px 100px;
+    width: 70%;
+    height: 40%;
     background-color: rgb(73, 53, 27);
 }
